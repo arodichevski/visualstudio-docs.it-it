@@ -19,7 +19,7 @@ Per impostare un intero blocco di codice come commento:
 
 * Selezionare il codice e selezionare **Attiva/Disattiva commento per riga** dal menu di scelta rapida
 
-OR
+oppure
 
 * Usare il tasto di scelta rapida `cmd + /` sul codice selezionato.
 
